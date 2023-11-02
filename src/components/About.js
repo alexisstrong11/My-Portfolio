@@ -24,7 +24,7 @@ function About() {
                 About Alexis Strong
                 </Card.Title>
                 <Card.Text>
-                Alexis Strong is a Motivated and highly inquisitive business professional with research, data and event coordination experience and expertise in mortgage loan processes. 
+                Alexis Strong is Motivated and highly inquisitive business professional with research, data and event coordination experience and expertise in mortgage loan processes. 
                 Astute problem-solver, meticulous with details, statistical analysis, and managing correlation. 
                 Dedicated to expanding subject knowledge and business competencies through continued research and training.
                 </Card.Text>

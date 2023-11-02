@@ -3,21 +3,26 @@
 ## **Description**
 As a web developer it is important to showcase your projects for potental employers and freelance work. This is my personal portfolio, created with React, that displays some of my most recent projects and applications. 
 
-
 - - - -
 ## **Table of Contents**
 - [Usage](#usage)
 - [Website Preview](#website-preview)
+- [Credits](#credits)
 - [License](#license)
 - [How to Contribute](#how-to-contribute)
 - - - -
 ## **Usage**
-To access my project, open my portfolio by clicking the "Srong Portfolio Link" shown in the [Website Preview](#website-preview)<a name="website_preview"></a> section below.
+To access my project, open my portfolio by clicking the "My Portfolio" link shown in the [Website Preview](#website-preview)<a name="website_preview"></a> section below.
 - - - -
 ## **Website Preview**
-[Strong Portfolio Link](https://alexisstrong11.github.io/Strong-Portfolio/) ![Preview of portfolio](./assets/images/Portfolio.png)
-- - - - 
+[My Portfolio](https://alexisstrong11.github.io/My-Portfolio/) ![Preview of portfolio](./src/images/aboutme.png)
 
+![Preview of portfolio](./src/images/projects.png)
+
+![Preview of portfolio](./src/images/contact.png)
+- - - - 
+## **Credits**
+Code inspired by https://github.com/ThomasCalle/7homas7he7ank-React-Portfolio/tree/main 
 - - - - 
 ## **License**
 MIT License
