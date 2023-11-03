@@ -57,7 +57,7 @@ function Resume() {
         </Row>
         <Row>
           <Col>
-            <h3>Proficiencies</h3>
+            <h3>Technical Skills</h3>
             <ul>
               <li>HTML and CSS</li>
               <li>JavaScript</li>
