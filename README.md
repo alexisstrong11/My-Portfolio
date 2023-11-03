@@ -15,11 +15,11 @@ As a web developer it is important to showcase your projects for potental employ
 To access my project, open my portfolio by clicking the "My Portfolio" link shown in the [Website Preview](#website-preview)<a name="website_preview"></a> section below.
 - - - -
 ## **Website Preview**
-[My Portfolio](https://alexisstrong11.github.io/My-Portfolio/) ![Preview of portfolio](./src/images/aboutme.png)
+[My Portfolio](https://alexisstrong11.github.io/My-Portfolio/) ![Preview of portfolio](./src/images/home.png)
 
-![Preview of portfolio](./src/images/projects.png)
+![Preview of portfolio](./src/images/portfolioshot.png)
 
-![Preview of portfolio](./src/images/contact.png)
+![Preview of portfolio](./src/images/contactme.png)
 - - - - 
 ## **Credits**
 Received code assiatance from Chat GPT. 
