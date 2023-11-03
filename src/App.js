@@ -17,12 +17,9 @@ function App() {
     <div className="App">
       <Router>
       <Header/>
-        {/* <Navigation /> */}
-        {/* <Header/> */}
         <div className="container mt-5">
           <Routes>
             <Route path="/" element={<About />} />
-            {/* <Route path="/alexis-strong-my-portfolio/home" element={<Home />} /> */}
             <Route path="/about" element={<About />} />
             <Route path="/portfolio" element={<Portfolio />} />
             <Route path="/contact" element={<Contact />} />

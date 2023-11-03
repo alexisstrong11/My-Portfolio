@@ -1,41 +1,28 @@
-import React from "react";
-import { Container, Row, Col, Card, Image } from "react-bootstrap";
-import picture from "../images/Portfolio/Selfie.png";
-import "../style/About.css";
+// About.js
 
-function About() {
+import React from 'react';
+import picture from "../images/Portfolio/Selfie.png";
+
+const About = () => {
   return (
-    // The About section on the landing page
-    <section id="about" className="py-5">
-      <h1 className="about-heading">About Me</h1>
-      <Container>
-        <Row>
-          <Col
-            xs={12}
-            md={4}
-            className="d-flex justify-content-center align-items-center mb-4 mb-md-0"
-          >
-            <Image src={picture} rounded fluid className="about-image" />
-          </Col>
-          <Col xs={12} md={8}>
-            <Card>
-              <Card.Body>
-                <Card.Title className="text-center mb-4">
-                About Alexis Strong
-                </Card.Title>
-                <Card.Text>
-                Alexis Strong is Motivated and highly inquisitive business professional with research, data and event coordination experience and expertise in mortgage loan processes. 
+    <div className="about">
+      <div className="container">
+        <div className="about-content">
+          <div className="about-image">
+          <img src={picture} alt="Alexis Selfie" className="image-style"/>
+          </div>
+          <div className="about-text">
+            <h2>About Me</h2>
+            <p>
+                I am a motivated and highly inquisitive business professional with research, data and event coordination experience and expertise in mortgage loan processes. 
                 Astute problem-solver, meticulous with details, statistical analysis, and managing correlation. 
                 Dedicated to expanding subject knowledge and business competencies through continued research and training.
-                </Card.Text>
-              </Card.Body>
-            </Card>
-          </Col>
-        </Row>
-      </Container>
-    </section>
+            </p>
+          </div>
+        </div>
+      </div>
+    </div>
   );
-}
+};
 
-// Export About
 export default About;

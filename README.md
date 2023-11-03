@@ -22,7 +22,7 @@ To access my project, open my portfolio by clicking the "My Portfolio" link show
 ![Preview of portfolio](./src/images/contact.png)
 - - - - 
 ## **Credits**
-Code inspired by https://github.com/ThomasCalle/7homas7he7ank-React-Portfolio/tree/main 
+Received code assiatance from Chat GPT. 
 - - - - 
 ## **License**
 MIT License

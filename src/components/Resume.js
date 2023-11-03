@@ -24,14 +24,14 @@ function Resume() {
             <hr className="star-secondary" />
             <ul className="list-inline">
               <li className="list-inline-item">
-                <strong>Languages:</strong> JavaScript, HTML, CSS
+                <strong>Languages:</strong> HTML, CSS3, JavaScript, 
               </li>
               <li className="list-inline-item">
                 <strong>Libraries/Frameworks:</strong> React, jQuery, Bootstrap,
                 Material UI
               </li>
               <li className="list-inline-item">
-                <strong>Databases:</strong> MongoDB, MySQL
+                <strong>Databases/Frameworks:</strong> MongoDB, MySQL, Express.js, 
               </li>
               <li className="list-inline-item">
                 <strong>Tools/Platforms:</strong> Git, GitHub, Heroku

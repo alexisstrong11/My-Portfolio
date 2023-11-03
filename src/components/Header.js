@@ -15,7 +15,7 @@ function Header() {
             <h1 className="text-white" style={{ fontSize: "70px" }}>
               <Link
                 to="/alexis-strong-my-portfolio/"
-                className="text-white text-decoration-none"
+                className="text-black text-decoration-none"
                 style={{ margin: "0" }}
               >
                 Alexis Strong
